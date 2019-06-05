@@ -1,0 +1,9 @@
+This module should be run after you run alignment_manju module and before ayushi's dictionary integration [into alignment] module.
+To run this module[3.] checkout comments in run_alignment.sh
+
+So the sequence for running overall alignment will be
+1. Running Anusaaraka
+2. Running alignment_manju
+3. Running alignment_kishori_module
+4. Running Ayushi's dictionary module
+5. ...
