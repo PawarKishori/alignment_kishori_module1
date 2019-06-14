@@ -1,3 +1,6 @@
+#Command to run module : sh run_alignment.sh efile hfile_wx
+
+
 tmp_path=$HOME_anu_tmp/tmp/
 python split_into_tmp.py $1 E_sentence $1
 python split_into_tmp.py $2 H_sentence $1
