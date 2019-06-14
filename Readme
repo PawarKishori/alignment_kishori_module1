@@ -4,6 +4,6 @@ To run this module[3.] checkout comments in run_alignment.sh
 So the sequence for running overall alignment will be
 1. Running Anusaaraka
 2. Running alignment_manju
-3. Running alignment_kishori_module (Command to run:  sh run_alignment.sh efile hfile_wx)
+3. Running alignment_kishori_module (Copy efile and hfile_wx in this directory and  run using:  sh run_alignment.sh efile hfile_wx)
 4. Running Ayushi's dictionary module
 5. ...
